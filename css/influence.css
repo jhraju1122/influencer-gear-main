@@ -1,0 +1,28 @@
+section{
+    display: flex;
+    margin-top: 150px;
+  
+  }
+  .margin{
+margin-left: 100px;
+margin-right: 60px;
+  }
+  .heading{
+    font-size: 70px;
+    font-weight: 800;
+  }
+
+  /* center & border for logo */
+   .center{
+    text-align: center;
+    border-top: 1px solid #562eff ;
+    border-bottom: 1px solid #562eff ;
+     
+   }
+   h1{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom:1em; ;}
+ 
