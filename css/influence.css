@@ -26,3 +26,19 @@ margin-right: 60px;
     margin-top: 3em;
     margin-bottom:1em; ;}
  
+ .top{
+  margin-top: 7em;
+ }
+ .padding{
+  padding-bottom: 80px;
+ }
+
+ footer{
+  height: 300px;
+  font-weight: 100%;
+  background-color: rgb(35, 39, 88);
+  color: antiquewhite;
+  }
+ .copyright{
+  text-align: center;
+ }
